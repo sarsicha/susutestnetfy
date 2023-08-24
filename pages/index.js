@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Seja bem vindo" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Seu corno safado! <code>pages/index.js</code>
         </p>
       </main>
 
